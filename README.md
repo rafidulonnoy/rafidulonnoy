@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **rafidulonnoy/rafidulonnoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
+
+I'm a beginner web developer who loves computers 💻
+
+I'm currently learning HTML, CSS, and JavaScript to create awesome websites 🚀
+
+Some of my interests are:
+
+- 🎮 Dota
+- 🎵 Music
+- 📜 JavaScript
+- 🖥️ Making and breaking Arch
+
+I'm always eager to learn new things and collaborate with other developers. Feel free to check out my projects and give me feedback 😊
