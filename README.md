@@ -1,22 +1,14 @@
-Hi
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My
-name is Rafidul Islam Onnoy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafidul Islam Onnoy
 ===========================================================================================================================================
-Web Developer ------------- I'm a beginner web developer 💻. I'm learning web
-development for 5 months started with HTML & CSS currently learning JavaScript
-to create awesome websites 🚀. I started with frontend, but have really found
-passion for backend development. * 🌍  I'm based in Dhaka, Bangladesh * 🖥️  See
-my portfolio at [RafidulOnnoy](http://github.com/rafidulonnoy) * ✉️  You can
-contact me at [rafidulonnoy@gmail.com](mailto:rafidulonnoy@gmail.com) * 🧠  I'm
-learning NodeJS. * 🤝  I'm open to collaborating on any backend projects to
-improve my skills. * ⚡  I love making and breaking linux operating systems,
-currently using arch btw.<a
-  href="https://www.github.com/rafidulonnoy"
-  target="_blank"
-  rel="noreferrer"
-  ><img
-    src="https://img.shields.io/github/followers/rafidulonnoy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+Web Developer ------------- 
+I'm a beginner web developer 💻. I'm learning web development for 5 months started with HTML & CSS currently learning JavaScript to create awesome websites 🚀. I started with frontend, but have really found passion for backend development. 
+* 🌍  I'm based in Dhaka, Bangladesh
+* 🖥️  See my portfolio at [RafidulOnnoy](http://github.com/rafidulonnoy)
+* ✉️  You can contact me at [rafidulonnoy@gmail.com](mailto:rafidulonnoy@gmail.com)
+* 🧠  I'm learning NodeJS.
+* 🤝  I'm open to collaborating on any backend projects to improve my skills.
+* ⚡  I love making and breaking linux operating systems,currently using arch btw.
+<a href="https://www.github.com/rafidulonnoy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/rafidulonnoy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 ### Skills
 <p align="left">
   <a
@@ -180,16 +172,12 @@ currently using arch btw.<a
   </a>
 </p>
 ### Badges
-<b>My GitHub Stats</b
-><a href="http://www.github.com/rafidulonnoy"
-  ><img
+
+
+<b>My GitHub Stats</b><a href="http://www.github.com/rafidulonnoy"><img
     src="https://github-readme-stats.vercel.app/api?username=rafidulonnoy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-    alt="rafidulonnoy's GitHub stats" /></a
-><a href="http://www.github.com/rafidulonnoy"
-  ><img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rafidulonnoy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a
-><a href="https://github.com/rafidulonnoy" align="left"
-  ><img
+    alt="rafidulonnoy's GitHub stats" /></a>
+    <a href="http://www.github.com/rafidulonnoy"><img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafidulonnoy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/rafidulonnoy" align="left"><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidulonnoy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages"
-/></a>
+    alt="Top Languages"/></a>
