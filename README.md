@@ -166,7 +166,7 @@ I'm a beginner web developer 💻. I'm learning web development for 5 months sta
         "
       />
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials twitter.svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
         width="32"
         height="32"
       />
