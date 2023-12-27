@@ -8,7 +8,9 @@ I'm a beginner web developer 💻. I'm learning web development for 5 months sta
 * 🧠  I'm learning NodeJS.
 * 🤝  I'm open to collaborating on any backend projects to improve my skills.
 * ⚡  I love making and breaking linux operating systems,currently using arch btw.
+
 <a href="https://www.github.com/rafidulonnoy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/rafidulonnoy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+
 ### Skills
 <p align="left">
   <a
@@ -171,6 +173,8 @@ I'm a beginner web developer 💻. I'm learning web development for 5 months sta
     </picture>
   </a>
 </p>
+
+
 ### Badges
 
 
