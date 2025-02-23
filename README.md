@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafidul Islam Onnoy
 ===========================================================================================================================================
-Web Developer ------------- 
-I'm a beginner web developer 💻. I'm learning web development for 5 months started with HTML & CSS currently learning JavaScript to create awesome websites 🚀. I started with frontend, but have really found passion for backend development. 
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [RafidulOnnoy](http://github.com/rafidulonnoy)
-* ✉️  You can contact me at [rafidulonnoy@gmail.com](mailto:rafidulonnoy@gmail.com)
-* 🧠  I'm learning NodeJS.
-* 🤝  I'm open to collaborating on any backend projects to improve my skills.
-* ⚡  I love making and breaking linux operating systems,currently using arch btw.
+wannabe programmer ------------- 
+I'm a beginner web developer 💻, currently learning web development 🚀, started with frontend but really found passion for backend development. 
+* 🌍  Based in Bangladesh.
+* 🖥️  See my portfolio at [RafidulOnnoy](http://github.com/rafidulonnoy?tab=repositories).
+* ✉️  Contact me at [rafidulonnoy@gmail.com](mailto:rafidulonnoy@gmail.com).
+* 🧠  Currently doing Backend related projects.
+* 🤝  Open to collaborating on any backend projects to improve my skills.
+* ⚡  Love making and breaking linux systems, currently using arch btw.
 
 <a href="https://www.github.com/rafidulonnoy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/rafidulonnoy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
