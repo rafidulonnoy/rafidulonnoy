@@ -4,7 +4,7 @@ Wannabe programmer
 
 * 🌍  Based in Bangladesh.
 * 🖥️  See my portfolio at [RafidulOnnoy](http://github.com/rafidulonnoy?tab=repositories).
-* ✉️  Contact me at [rafidulonnoy@gmail.com](mailto:rafidulonnoy@gmail.com).
+* ✉️  Contact me at [rafidulonnoy@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rafidulonnoy@gmail.com).
 * 🧠  Currently doing Backend related projects.
 * 🤝  Open to collaborating on any backend projects to improve my skills.
 * ⚡  Love making and breaking linux systems, currently using arch btw.
@@ -77,7 +77,7 @@ Wannabe programmer
 
 <p align="left">
   <a
-    href="https://www.facebook.com/rafidulislamonnoy"
+    href="https://www.facebook.com/rafidulonnnoy"
     target="_blank"
     rel="noreferrer"
   >
@@ -96,31 +96,6 @@ Wannabe programmer
       />
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
-  </a>
-  <a
-    href="https://www.github.com/rafidulonnoy"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
         width="32"
         height="32"
       />
