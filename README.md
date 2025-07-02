@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafidul Islam Onnoy
 ===========================================================================================================================================
-------------- Wannabe programmer -------------
+Wannabe programmer
 
 I'm a beginner web developer 💻, currently learning web development 🚀, started with frontend but really found passion for backend development. 
 * 🌍  Based in Bangladesh.
