@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 Wannabe programmer
 
-I'm a beginner web developer 💻, currently learning web development 🚀, started with frontend but really found passion for backend development. 
 * 🌍  Based in Bangladesh.
 * 🖥️  See my portfolio at [RafidulOnnoy](http://github.com/rafidulonnoy?tab=repositories).
 * ✉️  Contact me at [rafidulonnoy@gmail.com](mailto:rafidulonnoy@gmail.com).
