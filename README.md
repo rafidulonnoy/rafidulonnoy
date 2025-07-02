@@ -4,7 +4,7 @@ Wannabe programmer
 
 * 🌍  Based in Bangladesh.
 * 🖥️  See my portfolio at [RafidulOnnoy](http://github.com/rafidulonnoy?tab=repositories).
-* ✉️  Contact me at [rafidulonnoy@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rafidulonnoy@gmail.com).
+* ✉️  Contact me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rafidulonnoy@gmail.com" target="_blank">MAIL</a>.
 * 🧠  Currently doing Backend related projects.
 * 🤝  Open to collaborating on any backend projects to improve my skills.
 * ⚡  Love making and breaking linux systems, currently using arch btw.
